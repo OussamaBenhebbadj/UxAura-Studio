@@ -4,6 +4,6 @@ export type Project = {
   id: string;
   title: string;
   category: ProjectCategory;
-  icon: "sera" | "web" | "mobile";
+  image: "sera" | "web" | "mobile";
   link: string;
 };
