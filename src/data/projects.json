@@ -1,0 +1,100 @@
+[
+  {
+    "id": "sera-university-transport",
+    "title": "SERA – University Transport Admin Dashboard",
+    "category": "web",
+    "image": "/projects/sera.svg",
+    "link": "https://www.behance.net/gallery/230511111/SERA-University-Transport-Admin-Dashboard"
+  },
+  {
+    "id": "maawah-web-community-platform",
+    "title": "Maawah - Web Community-powered plateform",
+    "category": "web",
+    "image": "/projects/maawa.svg",
+    "link": "https://www.behance.net/gallery/244256113/UIUX-Design-Community-Support-Platform"
+  },
+  {
+    "id": "ehs-pro-saas-platform",
+    "title": "EHS Pro - Saas Platform for Environmental Health and Safety",
+    "category": "web",
+    "image": "/projects/hse.svg",
+    "link": "https://www.behance.net/gallery/253249053/EHS-PRO-Safety-Management-Platform"
+  },
+  {
+    "id": "taalimna-e-learning-mobile-app",
+    "title": "Taalimna - E-Learning Mobile App",
+    "category": "mobile",
+    "image": "/projects/taalimna.svg",
+    "link": "https://www.figma.com/proto/GlsnDxXE6TI3NLDmoGnudd/UXaura?node-id=263-5518&t=8UXKEtyEY6MZ20Jl-1&scaling=min-zoom&content-scaling=fixed&page-id=53%3A2&starting-point-node-id=263%3A5484"
+  },
+  {
+    "id": "orthopedic-management-web-app",
+    "title": "Orthopedic Management Web App",
+    "category": "web",
+    "image": "/projects/ortho.svg",
+    "link": "https://www.behance.net/gallery/234583767/Orthopedic-Clinic-Management-Web-App"
+  },
+  {
+    "id": "schoolride-carpooling-app",
+    "title": "SchoolRide - Carpooling App",
+    "category": "mobile",
+    "image": "/projects/schoolride.svg",
+    "link": "https://www.behance.net/gallery/243168699/SchoolRide-UIUX-For-Carpooling-App"
+  },
+  {
+    "id": "voxa-podcast-app",
+    "title": "Voxa - Podcast App",
+    "category": "mobile",
+    "image": "/projects/voxa.svg",
+    "link": "https://www.behance.net/gallery/236254181/UIUX-Design-Podcast-App"
+  },
+  {
+    "id": "skinelle-ecommerce-skincare-landing-page",
+    "title": "Skinelle - Ecommerce Skincare landing page",
+    "category": "web",
+    "image": "/projects/Skinelle.svg",
+    "link": "https://www.behance.net/gallery/231285049/Skinelle-Skincare-UIUX-Landing-Page-Design"
+  },
+  {
+    "id": "moda-ecommerce-clothes-app",
+    "title": "Moda - Ecommerce Clothes App",
+    "category": "mobile",
+    "image": "/projects/moda.svg",
+    "link": "https://www.behance.net/gallery/232161489/Moda-UIUX-Ecommerce-app"
+  },
+  {
+    "id": "redesign-trybe-creers-page",
+    "title": "Redesign Trybe Creers Page ",
+    "category": "web",
+    "image": "/projects/trybe.svg",
+    "link": "https://www.behance.net/gallery/245319767/Redesign-Trybe-Creers-Page-UIUX-Design"
+  },
+  {
+    "id": "sehhatna-medical-center-clinic-website-landing-page",
+    "title": "Sehhatna - Medical Center Clinic Website Landing Page",
+    "category": "web",
+    "image": "/projects/sehhatna.svg",
+    "link": "https://www.behance.net/gallery/230216885/Sehhatna-Medical-Center-Clinic-Website-Landing-Page"
+  },
+  {
+    "id": "sporti-gear-sports-equipment-e-commerce-platform",
+    "title": "SportiGear - Sports Equipment E-commerce Platform",
+    "category": "web",
+    "image": "/projects/sporti.svg",
+    "link": "https://www.behance.net/gallery/229227153/SportiGear-Sports-Equipment-E-commerce-Platform"
+  },
+  {
+    "id": "nardjesse-cosmetic-perfume-store-website",
+    "title": "Nardjesse – Cosmetic & Perfume Store Website",
+    "category": "web",
+    "image": "/projects/nardjesse.svg",
+    "link": "https://www.behance.net/gallery/229577843/Nardjesse-Cosmetic-Perfume-Store-Website"
+  },
+  {
+    "id": "soukdz-algerian-craftsmen-mobile-app",
+    "title": "SoukDZ - Algerian craftsmen Mobile App",
+    "category": "mobile",
+    "image": "/projects/soukdz.svg",
+    "link": "https://www.figma.com/design/ioFXJPsbMEJhlMpoYqHpXy/SEC?node-id=130-2&t=3VGvvnmksALWt6tk-1"
+  }
+]
