@@ -18,7 +18,6 @@ export default function ProjectCard({
   project: Project;
   index: number;
 }) {
-  const Icon = project.icon ? ICONS[project.icon] : null;
 
   return (
     <motion.div
@@ -37,7 +36,6 @@ export default function ProjectCard({
     >
       {/* Thumbnail */}
       <div className="relative flex aspect-[4/3] items-center justify-center overflow-hidden bg-[var(--color-light)] p-6">
-        {project.image ? (
           <Image
             src={project.image}
             alt={project.title}
@@ -46,9 +44,7 @@ export default function ProjectCard({
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             className="object-contain"
           />
-        ) : Icon ? (
-          <Icon className="h-full w-full max-w-[220px]" />
-        ) : null}
+        )
       </div>
 
       {/* Footer */}
